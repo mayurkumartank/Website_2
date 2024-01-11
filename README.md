@@ -18,9 +18,9 @@ This Python script utilizes Selenium with Undetected ChromeDriver to scrape staf
 
 ## Clone the repository
 
-git clone https://github.com/your-username/your-repo.git
+git clone https://github.com/mayurkumartank/Website_2.git
 
-cd your-repo
+cd Website_2
 
 
 python website_2.py
